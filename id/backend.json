@@ -1,13 +1,13 @@
 {
  "notifications":{
-  "transactionSuccessfull":"Transaction Successfull",
-  "hello": "Hello",
-  "youHaveReceivedTransaction": "you have received a transaction of",
-  "tubePurchase.": "TUBE from your purchase.",
-  "purchaseComplete": "Purchase complete",
-  "yourPuchaseOf": "Your puchase of",
-  "mailText": "TUBEs has been processed successfully. We transfered TUBEs to your wallet.",
-  "mailText2": "This process can take up to 60 minutes until your TUBEs are spendable.",
-  "thanks": "Thanks."
+  "transactionSuccessfull":"Transaksi Sukses",
+  "hello": "Hallo",
+  "youHaveReceivedTransaction": "kamu menerima transaksi dari",
+  "tubePurchase.": "Pembelian TUBE kamu.",
+  "purchaseComplete": "Pembelian selesai",
+  "yourPuchaseOf": "Kamu membeli",
+  "mailText": "Proses TUBEs telah sukses. Kami akan mentransfer TUBEs ke dompet anda.",
+  "mailText2": "Proses ini akan memakan waktu sekita 60 menit-an sampai TUBEs dapat di gunakan.",
+  "thanks": "Terima Kasih."
  }
 }
